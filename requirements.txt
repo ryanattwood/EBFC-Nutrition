@@ -1,0 +1,7 @@
+streamlit==1.40.0
+pandas
+pillow
+python-dotenv
+google-genai
+tenacity
+pydantic
